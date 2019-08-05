@@ -1,0 +1,568 @@
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://alu5.p4xlnspgzln.rj32d.e.s55.ru.wbprx.com/download/new3/jtv.zip" tvg-shift=+4 cache=5000
+#EXTINF:-1 group-title="HD каналы",Первый канал HD (+0ч)
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/204/index.m3u8
+#EXTINF:-1 group-title="HD каналы",Первый канал HD (+0ч)резерв
+http://188.226.2.92:81//udp/239.255.2.235:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",Первый_HD
+http://176.51.59.105:1234/udp/225.54.41.1:5000
+#EXTINF:-1 group-title="HD каналы",Россия HD (+0ч)
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/205/index.m3u8
+#EXTINF:-1 group-title="HD каналы",Россия HD (+0ч) резерв
+http://188.226.2.92:81//udp/239.255.2.236:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",Россия _HD
+http://176.51.59.105:1234/udp/225.54.41.23:5000
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",L!FENEWS HD
+http://tv.life.ru/lifetv/720p/index.m3u8
+#EXTINF:-1 group-title="HD каналы",360° Подмосковье HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_PODMOSKOVIEHD/variant.m3u8?version=2
+#EXTINF:-1 group-title="HD каналы",Мир HD
+http://188.226.2.92:81//udp/239.255.2.250:1234
+#EXTINF:-1 group-title="HD каналы",43 канал HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1 group-title="HD каналы",ТВЦ Красноярск HD
+rtmp://91.230.211.87:1935/live/tck
+#EXTINF:-1 group-title="HD каналы",WBC HD
+http://188.226.2.92:81//udp/239.255.3.38:1234
+#EXTINF:-1 group-title="HD каналы",RTG HD
+http://188.226.2.92:81//udp/239.255.2.84:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",TV1000 Premium HD
+http://176.51.59.105:1234/udp/225.54.41.20:5000
+#EXTINF:-1 group-title="HD каналы",Amedia Premium HD
+http://188.226.2.92:81//udp/239.255.2.170:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",Amedia Premium HD
+http://176.51.59.105:1234/udp/225.54.41.30:5000
+#EXTINF:-1 group-title="HD каналы",Amedia Hit HD
+http://188.226.2.92:81//udp/239.255.2.24:123
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",Amedia HIT HD
+http://176.51.59.105:1234/udp/225.54.41.41:5000
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",Amedia 1 HD
+http://176.51.59.105:1234/udp/225.54.41.29:5000
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",TV1000 Comedy HD
+http://176.51.59.105:1234/udp/225.54.41.22:5000
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",TV1000 Megahit HD
+http://176.51.59.105:1234/udp/225.54.41.21:5000
+#EXTINF:-1 group-title="HD каналы",КиноПремиум HD
+http://188.226.2.92:81//udp/239.255.2.174:1234
+#EXTINF:-1 group-title="HD каналы",Остросюжетное HD
+http://188.226.2.92:81//udp/239.255.2.179:1234
+#EXTINF:-1 group-title="HD каналы",Наше HD
+http://188.226.2.92:81//udp/239.255.2.186:1234
+#EXTINF:-1 group-title="HD каналы",HD Кино 2
+http://188.226.2.92:81//udp/239.255.3.56:1234
+#EXTINF:-1 group-title="HD каналы",Семейное HD
+http://188.226.2.92:81//udp/239.255.2.185:1234
+#EXTINF:-1 group-title="HD каналы",Ginger HD
+http://188.226.2.92:81//udp/239.255.2.74:1234
+#EXTINF:-1 group-title="HD каналы",FOX HD
+http://188.226.2.92:81//udp/239.255.2.222:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",FOX HD
+http://176.51.59.105:1234/udp/225.54.41.17:5000
+#EXTINF:-1 group-title="HD каналы",FOX Life HD
+http://188.226.2.92:81//udp/239.255.2.223:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",FOX Life HD
+http://176.51.59.105:1234/udp/225.54.41.5:5000
+#EXTINF:-1 group-title="HD каналы",SET HD
+http://188.226.2.92:81//udp/239.255.2.219:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",SET HD
+http://176.51.59.105:1234/udp/225.54.41.16:5000
+#EXTINF:-1 group-title="HD каналы",TLC HD
+http://188.226.2.92:81//udp/239.255.2.164:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",TLC HD
+http://176.51.59.105:1234/udp/225.54.41.36:5000
+#EXTINF:-1 group-title="HD каналы",MGM HD
+http://188.226.2.92:81//udp/239.255.2.190:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",Paramount Channel HD
+http://176.51.59.105:1234/udp/225.54.41.31:5000
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",Paramount Comedy HD
+http://176.51.59.105:1234/udp/225.54.41.37:5000
+#EXTINF:-1 group-title="HD каналы",Eureka HD
+http://188.226.2.92:81//udp/239.255.2.252:1234
+#EXTINF:-1 group-title="HD каналы",IQ HD
+http://188.226.2.92:81//udp/239.255.2.213:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",IQ HD
+http://176.51.59.105:1234/udp/233.7.70.232:5000
+#EXTINF:-1 group-title="HD каналы",Bollywood HD
+http://188.226.2.92:81//udp/239.255.3.60:1234
+#EXTINF:-1 group-title="HD каналы",Первый интернет канал HD
+http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
+#EXTINF:-1 group-title="HD каналы",ESKA VOX 720
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+#EXTINF:-1 group-title="HD каналы",ESKA PARTY Music 720p
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1 group-title="HD каналы",VEVO 1 720p
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 group-title="HD каналы",VEVO 2 720p
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 group-title="HD каналы",VEVO 3 720p
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 group-title="HD каналы",Trace Urban HD
+http://188.226.2.92:81//udp/239.255.2.183:1234
+#EXTINF:-1 group-title="HD каналы",MTV Live HD
+http://188.226.2.92:81//udp/239.255.2.201:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",MTV Live HD
+http://176.51.59.105:1234/udp/225.54.41.10:5000
+#EXTINF:-1 group-title="HD каналы",myZen.tv HD
+http://188.226.2.92:81//udp/239.255.2.139:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",MyZen.TV HD
+http://176.51.59.105:1234/udp/225.54.41.9:5000
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",Fashion One HD
+http://176.51.59.105:1234/udp/225.54.41.12:5000
+#EXTINF:-1 group-title="HD каналы",Animal Family HD
+http://188.226.2.92:81//udp/239.255.2.253:1234
+#EXTINF:-1 group-title="HD каналы",Travel Channel HD
+http://188.226.2.92:81//udp/239.255.2.65:1234
+#EXTINF:-1 group-title="HD каналы",Animal Planet HD
+http://188.226.2.92:81//udp/239.255.2.149:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",Animal Planet HD
+http://176.51.59.105:1234/udp/233.7.70.225:5000
+#EXTINF:-1 group-title="HD каналы",Nat Geo Wild HD
+http://188.226.2.92:81//udp/239.255.2.137:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",Nat Geo Wild HD
+http://176.51.59.105:1234/udp/225.54.41.7:5000
+#EXTINF:-1 group-title="HD каналы",National Geographic HD
+http://188.226.2.92:81//udp/239.255.2.136:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",National Geographic HD
+http://176.51.59.105:1234/udp/225.54.41.6:5000
+#EXTINF:-1 group-title="HD каналы",Охотник и Рыболов HD
+http://188.226.2.92:81//udp/239.255.2.237:1234
+#EXTINF:-1 group-title="HD каналы",Nickelodeon HD
+http://188.226.2.92:81//udp/239.255.2.202:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",Nickelodeon HD
+http://176.51.59.105:1234/udp/225.54.41.15:5000
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",Outdoor Channel HD
+http://176.51.59.105:1234/udp/225.54.41.13:5000
+#EXTINF:-1 group-title="HD каналы",Russia Today HD
+http://188.226.2.92:81//udp/239.255.2.34:1234
+#EXTINF:-1 group-title="HD каналы",Russia Today Документальный HD
+http://188.226.2.92:81//udp/239.255.2.162:1234
+#EXTINF:-1 group-title="HD каналы",Russia Today Documentary HD
+http://188.226.2.92:81//udp/239.255.2.23:1234
+#EXTINF:-1 group-title="HD каналы",Travel+ Adventure HD
+http://188.226.2.92:81//udp/239.255.2.206:1234
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",Travel+ Adventure HD
+http://176.51.59.105:1234/udp/225.54.41.8:5000
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",Viasat Nature HD
+http://176.51.59.105:1234/udp/225.54.41.28:5000
+#EXTINF:-1 group-title="HD каналы",Outdoor HD
+http://188.226.2.92:81//udp/239.255.2.207:1234
+#EXTINF:-1 group-title="HD каналы",Eurosport 2 HD
+http://188.226.2.92:81//udp/239.255.2.241:1234
+#EXTINF:-1 group-title="HD каналы",Luxe.TV HD
+http://188.226.2.92:81//udp/239.255.2.21:1234
+#EXTINF:-1 group-title="HD каналы",Mezzo Live HD
+http://188.226.2.92:81//udp/239.255.2.142:1234
+#EXTINF:-1 group-title="HD каналы",ЕдаТВ HD
+http://188.226.2.92:81//udp/239.255.2.86:1234
+#EXTINF:-1 group-title="HD каналы",Астрахань 24 HD
+http://win.cdn.bonus-tv.ru/TVB7/astrakhan/playlist.m3u8
+#EXTINF:-1 group-title="HD каналы",РЖД HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="HD каналы",Антимайдан HD
+http://hls.goodgame.ru/hls/6147_720.m3u8
+#EXTINF:-1 group-title="HD каналы" audio-track="ru",History HD
+http://176.51.59.105:1234/udp/225.54.41.26:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Первый канал (+4)
+http://2452E892313DEDEF:@t.kraslan.ru/1?krasview.ru
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Первый канал (+2)
+http://188.226.2.92:81//udp/239.255.2.122:1234
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Россия 1
+http://87.245.214.43/streaming/rossija/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Россия 1 (+2)
+http://188.226.2.92:81//udp/239.255.2.123:1234
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Россия РТР
+http://testlivestream.rfn.ru/live/smil:rtrp.smil/playlist.m3u8?auth=vh&cast_id=4941
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",РИА-Новости
+rtmp://rian.cdnvideo.ru/rr//stream20
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",ТНТ (+2)
+http://188.226.2.92:81//udp/239.255.2.114:1234
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",СТС
+http://live.siptv.rurs.net/RS/sts
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",СТС (+2)
+http://188.226.2.92:81//udp/239.255.2.32:1234
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",СТС Мир (+3)
+http://nsk5.peers.tv/streaming/sts/16/tvrec/playlist.m3u8?token=ea2d59051e589937ae345f29bdaf1831
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",СТС Мир (+3) резерв
+http://j.mp/P_STSMIR_sly?.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",РЕН ТВ
+http://87.245.214.43/streaming/rentv/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",РЕН ТВ (+2)
+http://188.226.2.92:81//udp/239.255.2.68:1234
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",НТВ
+http://87.245.214.43/streaming/ntv/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",НТВ (+2)
+http://188.226.2.92:81//udp/239.255.2.116:1234
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",НТВ (+4)
+http://2452E892313DEDEF:@t.kraslan.ru/ntv?krasview.ru
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Че (+3)
+http://nsk9.peers.tv/streaming/perec/16/tvrec/playlist.m3u8?token=ea2d59051e589937ae345f29bdaf1831
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",Че
+http://176.51.59.105:1234/udp/233.7.70.64:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",Че
+http://176.51.59.105:1234/udp/233.7.70.165:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Пятница! (+3)
+http://87.245.214.43/streaming/friday/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Пятница! (+2)
+http://188.226.2.92:81//udp/239.255.2.16:1234
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Пятница (+4)
+http://2452E892313DEDEF:@t.kraslan.ru/mtvair?krasview.ru
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",Пятница
+http://176.51.59.105:1234/udp/233.7.70.175:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",Пятница
+http://176.51.59.105:1234/udp/233.7.70.198:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",Пятница
+http://176.51.59.105:1234/udp/239.1.128.54:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",ТВЦ
+http://176.51.59.105:1234/udp/233.7.70.5:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",ТВЦ
+http://176.51.59.105:1234/udp/233.7.70.219:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",ТВЦ
+http://176.51.59.105:1234/udp/239.1.128.42:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",ТВЦ (+2)
+http://188.226.2.92:81//udp/239.255.2.88:1234
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",ТВ 3
+http://87.245.214.43/streaming/tv3/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",ТВ 3(+2)
+http://188.226.2.92:81//udp/239.255.2.81:1234
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",ТВ 3
+http://176.51.59.105:1234/udp/233.7.70.220:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",ТВ 3
+http://176.51.59.105:1234/udp/239.1.128.43:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",Домашний
+http://176.51.59.105:1234/udp/233.7.70.145:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",Домашний
+http://176.51.59.105:1234/udp/233.7.70.87:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Звезда
+http://87.245.214.43/streaming/zvezda/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Звезда
+http://2452E892313DEDEF:@t.kraslan.ru/zvezda?krasview.ru
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Пятый канал
+http://87.245.214.43/streaming/5kanal/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Пятый канал (+2)
+http://188.226.2.92:81//udp/239.255.2.64:1234
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Россия 24
+http://87.245.214.43/streaming/vesti/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Россия 24 (+2)
+http://188.226.2.92:81//udp/239.255.2.102:1234
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",L!FENEWS
+http://87.245.214.43/streaming/lifenews/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Life78
+http://tv78.life.ru/lifetv/480p/index.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",РБК
+http://87.245.214.43/streaming/rbk/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Мир (+2)
+http://188.226.2.92:81//udp/239.255.2.40:1234
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Мир 24
+http://87.245.214.43/streaming/mir24/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Мир 24 (+4)
+http://188.226.2.92:81//udp/239.255.2.246:1234
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Дождь
+http://188.226.2.92:81//udp/239.255.2.176:1234
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",СТРК (Сочи)
+http://msk2.peers.tv/streaming/strk/126/copy/playlist.m3u8?token=ea2d59051e589937ae345f29bdaf1831
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Москва 24
+http://testlivestream.rfn.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",Ю ТВ
+http://176.51.59.105:1234/udp/233.7.70.231:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",Ю ТВ
+http://176.51.59.105:1234/udp/233.7.70.92:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",Ю ТВ
+http://176.51.59.105:1234/udp/239.1.128.47:5000
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Russia Today
+http://87.245.214.43/streaming/russiatoday/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Euronews
+http://87.245.214.43/streaming/euronews/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Россия К
+http://87.245.214.43/streaming/kultura/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",Россия К
+http://2452E892313DEDEF:@t.kraslan.ru/kultura?krasview.ru
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ",ЛДПР ТВ
+rtmp://213.247.198.250/live//ldpr.stream_720p
+#EXTINF:-1 group-title="ОБЩЕСТВЕННЫЕ" audio-track="ru",ТРО
+http://176.51.59.105:1234/udp/225.54.23.153:5000
+#EXTINF:-1 group-title="Развлекательные",Юмор ТВ
+http://87.245.214.43/streaming/yumor_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Comedy
+http://94.43.239.178:8080/CHANNEL802/BITRATE0/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",STV (Edem)
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/105/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" audio-track="ru",Ностальгия
+http://176.51.59.105:1234/udp/225.54.23.85:5000
+#EXTINF:-1 group-title="Развлекательные" audio-track="ru",Ретро ТВ
+http://176.51.59.105:1234/udp/225.54.23.48:5000
+#EXTINF:-1 group-title="Развлекательные",Красная линия
+http://kprf-live.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" audio-track="ru",СТС Love
+http://176.51.59.105:1234/udp/225.54.23.20:5000
+#EXTINF:-1 group-title="Развлекательные",ТНТ Comedy
+http://iptv.multi-net.ru:80/udp/239.255.1.59:1234
+#EXTINF:-1 group-title="Развлекательные" audio-track="ru",Всё ТВ
+http://176.51.59.105:1234/udp/225.54.23.1:5000
+#EXTINF:-1 group-title="Фильмы",Настоящее страшное ТВ
+http://87.245.214.43/streaming/nstv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Страшное HD (SD)
+http://cdn.smotrimult.com/hls/C84FgnPHqAmb71ivZqaNEA/1449040624/strashnoe.m3u8
+#EXTINF:-1 group-title="Фильмы",TV XXI
+http://87.245.214.43/streaming/tv21/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Кинорейс 2
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/110/index.m3u8
+#EXTINF:-1 group-title="Фильмы" audio-track="ru",НТВ+ Кино союз
+http://176.51.59.105:1234/udp/225.54.23.41:5000
+#EXTINF:-1 group-title="Фильмы",НТВ+ Кинохит
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/516/index.m3u8
+#EXTINF:-1 group-title="Фильмы" audio-track="ru",НТВ+ Наше новое кино
+http://176.51.59.105:1234/udp/225.54.23.43:5000
+#EXTINF:-1 group-title="Фильмы" audio-track="ru",НТВ+ Наше Кино
+http://176.51.59.105:1234/udp/225.54.23.42:5000
+#EXTINF:-1 group-title="Фильмы" audio-track="ru",НТВ Кино Плюс
+http://176.51.59.105:1234/udp/225.54.23.40:5000
+#EXTINF:-1 group-title="Фильмы",Amedia 2
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/510/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Эгоист
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/526/index.m3u8
+#EXTINF:-1 group-title="Фильмы" audio-track="ru",Русский иллюзион
+http://176.51.59.105:1234/udp/225.54.23.23:5000
+#EXTINF:-1 group-title="Фильмы" audio-track="ru",Иллюзион+
+http://176.51.59.105:1234/udp/225.54.23.22:5000
+#EXTINF:-1 group-title="Фильмы" audio-track="ru",Еврокино
+http://176.51.59.105:1234/udp/225.54.23.37:5000
+#EXTINF:-1 group-title="Фильмы",TV1000 Русское кино
+http://188.226.2.92:81//udp/239.255.2.100:1234 (Miralogic)
+#EXTINF:-1 group-title="Фильмы",Мир сериала
+http://188.226.2.92:81//udp/239.255.2.224:1234
+#EXTINF:-1 group-title="Фильмы",Русский роман
+http://3.hls.bolshoe.tv/2/streaming/rusroman/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Русский бестселлер
+http://89.105.158.158:80/udp/239.255.1.55:1234
+#EXTINF:-1 group-title="Фильмы",Наше любимое кино
+http://188.226.2.92:81//udp/239.255.2.148:1234
+#EXTINF:-1 group-title="Фильмы",Дом кино
+http://188.138.102.150:8080/domkino/index.m3u8?token=3f51c1efa66dbb7c2150f61c51c175b5
+#EXTINF:-1 group-title="Фильмы",Русский детектив
+http://188.138.102.150:8080/rys_dete/index.m3u8?token=3f51c1efa66dbb7c2150f61c51c175b5
+#EXTINF:-1 group-title="Фильмы",Комедия ТВ
+http://live.siptv.rurs.net/FS/comtv
+#EXTINF:-1 group-title="Фильмы",Sony Sky-Fi
+http://3.hls.bolshoe.tv/1/streaming/axnscifi/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Индия ТВ
+http://j.mp/BINDIA_sly?.m3u8
+#EXTINF:-1 group-title="Фильмы" audio-track="ru",Феникс Кино
+http://176.51.59.105:1234/udp/225.54.23.32:5000
+#EXTINF:-1 group-title="Региональные",Мой город (Кемерово)
+http://4.hls.bolshoe.tv/1/streaming/moygorod/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",СТС Кузбасс
+http://4.hls.bolshoe.tv/1/streaming/sts/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",49 Канал
+http://87.245.214.43/streaming/49kanal/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",ОТС
+http://hls.peers.tv/streaming/ots/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Новое телевидение
+http://hls.peers.tv/streaming/novoe_televidenie/318/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Россия 1 Красноярск
+http://pstv.krasmix.ru/tv/russia1/chunklist_w1830756896.m3u8
+#EXTINF:-1 group-title="Региональные",8 канал Красноярский край
+http://hls.peers.tv/streaming/ya1pm/90/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",ТВК Красноярск Домашний
+http://iptv.multi-net.ru:80/udp/239.255.1.3:1234
+#EXTINF:-1 group-title="Региональные",Канал Че Красноярск
+http://2452E892313DEDEF:@t.kraslan.ru/perezair?krasview.ru
+#EXTINF:-1 group-title="Региональные",СТС Прима Красноярск  
+http://iptv.multi-net.ru:80/udp/239.255.1.6:1234
+#EXTINF:-1 group-title="Региональные",7 канал Красноярск (Рен-ТВ)  
+http://2452E892313DEDEF:@t.kraslan.ru/rentv?krasview.ru
+#EXTINF:-1 group-title="Региональные",СТК 10 (Новокузнецк)  
+http://hlstv.kuz.211.ru/239.211.4.13/stream.m3u8
+#EXTINF:-1 group-title="Региональные",ТВ Центр Красноярск  
+http://iptv.multi-net.ru:80/udp/239.255.1.21:1234
+#EXTINF:-1 group-title="Региональные",Афонтово Красноярск  
+http://iptv.multi-net.ru:80/udp/239.255.1.19:1234
+#EXTINF:-1 group-title="Региональные",12 канал Красноярск  
+http://iptv.multi-net.ru:80/udp/239.255.1.7:1234
+#EXTINF:-1 group-title="Региональные",Енисей  
+http://2452E892313DEDEF:@t.kraslan.ru/enisei?krasview.ru
+#EXTINF:-1 group-title="Региональные",ТНВ Планета
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/515/index.m3u8
+#EXTINF:-1 group-title="Региональные",Санкт-Петербург
+http://stream2.topspb.tv:1935/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Тюменское время
+http://sibinformburo.cdnvideo.ru:1935/sibinformburo/sibinformburo.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Региональные",12 канал Омск
+http://win.cdn.bonus-tv.ru/TVB7/gtrkomsk/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",26 регион Ставрополь
+http://serv03.vintera.tv:1935/26region/26reg.stream/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Губерния (Самара)
+http://grey.ether.tv/live/samara/broadcast4/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",ГТРК Крым HD
+http://gtrk.techbee.pro:1935/live/1tvcrimea/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",BRIDGE TV
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/122/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="ru",MTV Россия
+http://176.51.48.197:1234/udp/233.7.70.202:5000
+#EXTINF:-1 group-title="Музыка" audio-track="ru",MTV Rocks
+http://176.51.59.105:1234/udp/225.54.23.126:5000
+#EXTINF:-1 group-title="Музыка" audio-track="ru",MTV Dance
+http://176.51.59.105:1234/udp/225.54.23.124:5000
+#EXTINF:-1 group-title="Музыка" audio-track="ru",MTV Hits
+http://176.51.59.105:1234/udp/225.54.23.125:5000
+#EXTINF:-1 group-title="Музыка",MFM TV HQ
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Музыка Первого
+http://188.226.2.92:81//udp/239.255.2.2:1234
+#EXTINF:-1 group-title="Музыка",9 волна
+http://188.226.2.92:81//udp/239.255.2.200:1234
+#EXTINF:-1 group-title="Музыка",A-ONE
+http://188.226.2.92:81//udp/239.255.2.28:1234
+#EXTINF:-1 group-title="Музыка",DANGE TV
+http://188.226.2.92:81//udp/239.255.2.247:1234
+#EXTINF:-1 group-title="Музыка",Music Box RU
+http://188.226.2.92:81//udp/239.255.2.14:1234
+#EXTINF:-1 group-title="Музыка",RU TV
+http://188.226.2.92:81//udp/239.255.2.127:1234
+#EXTINF:-1 group-title="Музыка",Шансон
+http://j.mp/1gHcCYT?.m3u8
+#EXTINF:-1 group-title="Музыка",Music Box 80-х
+http://teleclub.fr/musicbox.mp4?start=0
+#EXTINF:-1 group-title="Музыка",FilmOn.TV
+http://204.107.26.252:1935/live/691.high.stream/liteiptv.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="ru",RUSONG TV
+http://176.51.59.105:1234/udp/225.54.23.129:5000
+#EXTINF:-1 group-title="Музыка",Europe+TV
+http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.europaplus
+#EXTINF:-1 group-title="Музыка",Европа+ Студия
+http://emg01.hostingradio.ru:8081/hls/eptv/eptvlive.m3u8
+#EXTINF:-1 group-title="Музыка",Муз Союз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 group-title="Музыка",Бим ТВ(Казань)
+rtmp://188.254.62.124:11935/live//video2
+#EXTINF:-1 group-title="Музыка",Радио 105 TV
+rtmp://fms.105.net/live//105Test1
+#EXTINF:-1 group-title="Познавательные",RTG
+http://188.226.2.92:81//udp/239.255.2.70:1234
+#EXTINF:-1 group-title="Познавательные",24 Док
+http://87.245.214.43/streaming/24doc/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",24 Техно
+http://87.245.214.43/streaming/24techno/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" audio-track="ru",Моя планета
+http://176.51.59.105:1234/udp/225.54.23.58:5000
+#EXTINF:-1 group-title="Познавательные" audio-track="ru",Наука 2.0
+http://176.51.59.105:1234/udp/225.54.23.65:5000
+#EXTINF:-1 group-title="Познавательные",Outdoor
+http://188.226.2.92:81//udp/239.255.2.207:1234
+#EXTINF:-1 group-title="Познавательные",Совершенно секретно
+http://188.226.2.92:81//udp/239.255.2.115:1234
+#EXTINF:-1 group-title="Познавательные",Телеканал Да Винчи
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/537/index.m3u8
+#EXTINF:-1 group-title="Познавательные" audio-track="ru",Nat Geo Wild
+http://176.51.59.105:1234/udp/233.7.70.223:5000
+#EXTINF:-1 group-title="Познавательные" audio-track="ru",National Geographic
+http://176.51.59.105:1234/udp/233.7.70.32:5000
+#EXTINF:-1 group-title="Познавательные",Discovery World
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/135/index.m3u8
+#EXTINF:-1 group-title="Познавательные" audio-track="ru",Discovery Science
+http://176.51.59.105:1234/udp/233.7.70.27:5000
+#EXTINF:-1 group-title="Познавательные",Investigation Discovery
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/139/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Кухня ТВ
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/152/index.m3u8
+#EXTINF:-1 group-title="Познавательные" audio-track="ru",История
+http://176.51.59.105:1234/udp/225.54.23.86:5000
+#EXTINF:-1 group-title="Познавательные",Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="Познавательные",Galaxy
+http://188.138.102.155:8080/galaxy/index.m3u8?token=3f51c1efa66dbb7c2150f61c51c175b5
+#EXTINF:-1 group-title="Познавательные" audio-track="ru",Бобер
+http://176.51.59.105:1234/udp/225.54.23.105:5000
+#EXTINF:-1 group-title="Познавательные",Мужской
+http://188.138.102.150:8080/muzhskoj/index.m3u8?token=3f51c1efa66dbb7c2150f61c51c175b5
+#EXTINF:-1 group-title="Познавательные",TV-Mix
+rtmp://tv-mix.ru/live//Stream1
+#EXTINF:-1 group-title="Детские",МУЛЬТ
+http://188.226.2.92:81//udp/239.255.2.220:1234
+#EXTINF:-1 group-title="Детские" audio-track="ru",Nick Jr.
+http://176.51.59.105:1234/udp/233.7.70.169:5000
+#EXTINF:-1 group-title="Детские" audio-track="ru",Tiji
+http://176.51.59.105:1234/udp/233.7.70.55:5000
+#EXTINF:-1 group-title="Детские" audio-track="ru",Gulli
+http://176.51.59.105:1234/udp/233.7.70.171:5000
+#EXTINF:-1 group-title="Детские",Карусель
+http://87.245.214.43/streaming/karusel/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Карусель
+http://2452E892313DEDEF:@t.kraslan.ru/karusel?krasview.ru
+#EXTINF:-1 group-title="Детские",2х2
+http://87.245.214.43/streaming/2x2tv/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские",2x2 (+2)
+http://87.245.214.43/streaming/2x2tv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские",2х2
+http://hls.novotelecom.ru/streaming/2x2tv/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/541/index.m3u8
+#EXTINF:-1 group-title="Детские" audio-track="ru",Disney Channel
+http://176.51.59.105:1234/udp/233.7.70.91:5000
+#EXTINF:-1 group-title="Детские" audio-track="ru",Cartoon Network
+http://176.51.59.105:1234/udp/225.54.23.95:5000
+#EXTINF:-1 group-title="Детские" audio-track="ru",TiJi
+http://176.51.59.105:1234/udp/233.7.70.55:5000
+#EXTINF:-1 group-title="Детские" audio-track="ru",Nick Jr.
+http://176.51.59.105:1234/udp/233.7.70.169:5000
+#EXTINF:-1 group-title="Детские",Мультимания
+http://188.138.102.155:8080/multimania/index.m3u8?token=3f51c1efa66dbb7c2150f61c51c175b5
+#EXTINF:-1 group-title="Детские",Мульт
+http://188.138.102.154:8080/mult/index.m3u8?token=3f51c1efa66dbb7c2150f61c51c175b5
+#EXTINF:-1 group-title="Детские",Детский
+http://188.138.102.150:8080/detskij/index.m3u8?token=3f51c1efa66dbb7c2150f61c51c175b5
+#EXTINF:-1 group-title="Спорт",Матч
+http://87.245.214.43/streaming/sport/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Спорт Плюс
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/107/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="ru",НТВ+ Спорт
+http://176.51.59.105:1234/udp/225.54.23.141:5000
+#EXTINF:-1 group-title="Спорт",НТВ+ Футбол
+http://80.77.52.6:8081/udp/226.0.7.2:12345
+#EXTINF:-1 group-title="Спорт",Наш футбол
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/531/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="ru",КХЛ
+http://176.51.59.105:1234/udp/233.7.70.150:5000
+#EXTINF:-1 group-title="Спорт",НТВ+ Футбол 3
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/522/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="ru",Eurosport
+http://176.51.59.105:1234/udp/225.54.23.130:5000
+#EXTINF:-1 group-title="Спорт" audio-track="ru",Eurosport 2
+http://176.51.59.105:1234/udp/225.54.23.131:5000
+#EXTINF:-1 group-title="Спорт",Бокс ТВ
+http://hls.peers.tv/streaming/boks_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Боец
+http://hls.peers.tv/streaming/boets/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Бойцовский клуб
+http://188.138.102.154:8080/boy_club/index.m3u8?token=3f51c1efa66dbb7c2150f61c51c175b5
+#EXTINF:-1 group-title="Спорт",Наш футбол HD
+http://188.226.2.92:81//udp/239.255.2.78:1234
+#EXTINF:-1 group-title="Спорт",НТВ+ Футбол 3 HD
+http://188.226.2.92:81//udp/239.255.2.187:1234
+#EXTINF:-1 group-title="Спорт",Спорт 1 HD
+http://188.226.2.92:81//udp/239.255.2.138:1234
+#EXTINF:-1 group-title="Спорт",Viasat Sport HD
+http://188.226.2.92:81//udp/239.255.3.44:1234
+#EXTINF:-1 group-title="Спорт" audio-track="ru",Eurosport HD
+http://176.51.59.105:1234/udp/233.7.70.199:5000
+#EXTINF:-1 group-title="Спорт",НТВ+ Футбол 1 HD
+http://188.226.2.92:81//udp/239.255.3.58:1234
+#EXTINF:-1 group-title="Спорт",НТВ+ Футбол 2 HD
+http://188.226.2.92:81//udp/239.255.3.57:1234
+#EXTINF:-1 group-title="Спорт",КХЛ HD
+http://188.226.2.92:81//udp/239.255.2.228:1234
+#EXTINF:-1 group-title="Взрослые",Playboy
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/527/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Русская Ночь
+http://fr234.edem.tv/iptv/W9LHDBY4FSKK6A/147/index.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИЯ",БЕСПЛАТНЫЙ
+
+#EXTINF:-1 group-title="ИНФОРМАЦИЯ",САМООБНОВЛЯЕМЫЙ
+
+#EXTINF:-1 group-title="ИНФОРМАЦИЯ",ПЛЕЙЛИСТ
+
+#EXTINF:-1 group-title="ИНФОРМАЦИЯ",от 2 декабря 2015
+
+#EXTINF:-1 group-title="ИНФОРМАЦИЯ",http://compmaster42.ru
+
+#EXTINF:-1 group-title="ИНФОРМАЦИЯ",КЕМЕРОВО
+
+#EXTINF:-1 group-title="ИНФОРМАЦИЯ"
