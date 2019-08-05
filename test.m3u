@@ -1,0 +1,16 @@
+﻿#EXTM3U
+
+#EXTINF:0 group-title="HD ������" audio-track="ru",FOX HD
+http://176.51.59.105:1234/udp/225.54.41.17:5000
+#EXTINF:0 group-title="HD ������",FOX Life HD
+http://188.226.2.92:81//udp/239.255.2.223:1234
+#EXTINF:0 group-title="HD ������" audio-track="ru",FOX Life HD
+http://176.51.59.105:1234/udp/225.54.41.5:5000
+#EXTINF:0 group-title="HD ������",SET HD
+http://188.226.2.92:81//udp/239.255.2.219:1234
+#EXTINF:0 group-title="HD ������" audio-track="ru",SET HD
+http://176.51.59.105:1234/udp/225.54.41.16:5000
+#EXTINF:0 group-title="HD ������",TLC HD
+http://188.226.2.92:81//udp/239.255.2.164:1234
+#EXTINF:0 group-title="HD ������" audio-track="ru",TLC HD
+http://176.51.59.105:1234/udp/225.54.41.36:5000
